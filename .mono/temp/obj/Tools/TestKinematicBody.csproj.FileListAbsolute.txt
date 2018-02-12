@@ -1,0 +1,6 @@
+E:\Godot\TestKinematicBody\.mono\temp\bin\Tools\TestKinematicBody.dll
+E:\Godot\TestKinematicBody\.mono\temp\bin\Tools\TestKinematicBody.pdb
+E:\Godot\TestKinematicBody\.mono\temp\obj\Tools\TestKinematicBody.csprojResolveAssemblyReference.cache
+E:\Godot\TestKinematicBody\.mono\temp\obj\Tools\TestKinematicBody.csproj.CoreCompileInputs.cache
+E:\Godot\TestKinematicBody\.mono\temp\obj\Tools\TestKinematicBody.dll
+E:\Godot\TestKinematicBody\.mono\temp\obj\Tools\TestKinematicBody.pdb
